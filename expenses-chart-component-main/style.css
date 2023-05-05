@@ -1,0 +1,165 @@
+body{
+    background: hsl(27, 66%, 92%);
+}
+
+header{
+    background: hsl(10, 79%, 65%);
+    border-radius: 10px;
+    height: 116px;
+    width: 550px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info{
+    position: absolute;
+    text-align: left;
+    font-family: 'DM Sans';
+    color: #fff;
+    left: 700px;
+}
+
+.info2{
+    position: absolute;
+    text-align: left;
+    font-family: 'DM Sans';
+    color: #fff;
+    left: 700px;
+    top: 50px;
+}
+
+.circulo{
+    position: absolute;
+    background: hsl(25, 47%, 15%);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    left: 1100px;
+    top: 45px;
+}
+
+.circulo2{
+    position: absolute;
+    background: #fff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    left: 1080px;
+    top: 45px;
+}
+
+.caixa{
+    background: #fff;
+    border-radius: 10px;
+    height: 440px;
+    width: 550px;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info3{
+    font-family: 'DM Sans';
+    text-align: left;
+}
+
+p{
+    display: inline-block;
+    font-family: 'DM Sans';
+}
+
+.alinha{
+    width: 40px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+.alinha2{
+    width: 40px;
+    height: 130px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+.alinha3{
+    width: 40px;
+    height: 170px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(186, 34%, 60%);
+}
+
+.alinha4{
+    width: 40px;
+    height: 110px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+.alinha5{
+    width: 40px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+.alinha6{
+    width: 40px;
+    height: 150px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+.alinha7{
+    width: 40px;
+    height: 90px;
+    display: inline-block;
+    border-radius: 10px;
+    background: hsl(10, 79%, 65%);
+}
+
+hr{
+    width: 500px;
+}
+
+.info4{
+    position: absolute;
+    font-family: 'DM Sans';
+    left: 700px;
+}
+
+.info5{
+    position: absolute;
+    font-family: 'DM Sans';
+    left: 700px;
+    top: 500px;
+}
+
+.info6{
+    position: absolute;
+    left: 1120px;
+    top: 480px;
+    font-family: 'DM Sans';
+}
+
+.info7{
+    position: absolute;
+    left: 1050px;
+    top: 500px;
+    font-family: 'DM Sans';
+}
+
+
